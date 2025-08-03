@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: add388cbc097e28409f820b1d1cd8e8b
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 274751
+  packageName: 6680 Icons Neon & Flat & Glow
+  packageVersion: 1.2
+  assetPath: Assets/6680 Icons  Flat & Glow & Line/Shader&Mat/RotateFlowingUV.shader
+  uploadId: 707892

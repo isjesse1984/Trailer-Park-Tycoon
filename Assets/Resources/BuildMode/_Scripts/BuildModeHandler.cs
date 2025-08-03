@@ -136,7 +136,7 @@ public class BuildModeHandler : Singleton<BuildModeHandler>
             }
         }
     }
-   
+     
     private void BuildAction()
     {
         if (isActive && activeBuildItem != null)
